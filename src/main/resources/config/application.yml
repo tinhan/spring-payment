@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: pord
+
+#server:
+    #port: 8080
+    #context-path: /pay
+
